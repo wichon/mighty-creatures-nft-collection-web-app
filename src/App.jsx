@@ -19,8 +19,6 @@ const override = css`
 // Constants
 const TWITTER_HANDLE = 'wichon';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-const OPENSEA_LINK = '';
-const TOTAL_MINT_COUNT = 50;
 
 const CONTRACT_ADDRESS = "0x161e7ADAb4FC5df1B82292B2EAD81B737f92d07E";
 
